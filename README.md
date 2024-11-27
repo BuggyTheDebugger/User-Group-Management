@@ -36,7 +36,7 @@ This is a robust Bash script designed to automate user and group management task
 
 ## Installation
    ```bash
-git clone https://github.com/BuggyTheDebugger/User-Group-Management.git
+git clone https://github.com/CodeD-Roger/User-Group-Management.git
 cd User-Group-Management
 chmod +x usergroupmanager.sh
 sudo ./usergroupmanager.sh
