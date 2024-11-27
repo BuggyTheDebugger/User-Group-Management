@@ -48,4 +48,3 @@ sudo ./usergroupmanager.sh
    ```bash
    cd User-Group-Management
    sudo ./usergroupmanager.sh
-```
