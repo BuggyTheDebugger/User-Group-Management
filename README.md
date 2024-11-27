@@ -34,7 +34,8 @@ This is a robust Bash script designed to automate user and group management task
 - **Dependencies**:
   - Required packages: `util-linux`, `passwd`, `openssl`.
 
-## Installation 
+## Installation
+1. Clone the repository:
    ```bash
 git clone https://github.com/BuggyTheDebugger/User-Group-Management.git
 cd User-Group-Management
@@ -44,7 +45,6 @@ sudo ./usergroupmanager.sh
 
 ## Usage
 
-1. Clone the repository:
    ```bash
    cd User-Group-Management
    sudo ./usergroupmanager.sh
