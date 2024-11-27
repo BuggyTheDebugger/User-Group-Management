@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # User and Group Management Script
-# Author: [BuggyTheDebugger]
+# Author: [CodeD-Roger]
 # Version: 2.2
 # Description: Complete automation for managing users, groups, permissions, and generating reports.
 
